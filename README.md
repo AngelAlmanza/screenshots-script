@@ -2,6 +2,10 @@
 
 En este proyecto, se presenta un script para capturar capturas de pantalla de forma automatizada. El objetivo es facilitar la tarea de tomar múltiples capturas de pantalla en un entorno controlado.
 
+# Nota
+
+Los tiempos deben ser proporcionados en segundos y no en milisegundos
+
 # Configuración del entorno virtual y librerías
 
 ### Crear el entorno virtual de python

@@ -23,6 +23,11 @@ Los tiempos deben ser proporcionados en segundos y no en milisegundos
   pip install pyautogui
   ```
 
+- [opencv-python](https://pypi.org/project/opencv-python/): Librería para el procesamiento de imágenes en Python.
+
+  ```bash
+  pip install opencv-python
+  ```
 
 Recuerda activar tu entorno virtual antes de ejecutar el script.
 
